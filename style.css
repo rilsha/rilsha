@@ -1,0 +1,22 @@
+.cv{
+    font-size: 24px;
+    text-align: center;
+}
+.skill-alllogo .design-tag{
+    width: 66px !important;
+    height: 60px !important;
+}
+.skill-tagslide .marquee-item {
+    gap: 35px !important;
+}
+.design-tag  {
+    border-color: transparent !important;
+}
+.skill-alllogo .design-tag:hover {
+    background: transparent !important;
+}
+.button-socialwrap .cmn-socialbutton .sicon{
+    
+        border-color: transparent !important;
+    
+}
